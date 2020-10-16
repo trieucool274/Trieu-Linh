@@ -31,7 +31,7 @@ N/
 ## MIT Lincense
 MIT License
 
-Copyright (c) 2020 Nguyen Gia Linh
+Copyright (c) 2020 Trieu Do Hoang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

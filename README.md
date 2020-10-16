@@ -21,7 +21,7 @@ Trieu created a repository from his account and invite Linh to collab. They then
 
 ## History
 
-N/A
+N/
 
 ## Credits
 

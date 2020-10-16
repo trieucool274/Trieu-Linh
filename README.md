@@ -1,4 +1,4 @@
-# Trieu-Linh
+# Trieu
 # Git and Github
 
 Building 1-page app that describes our team. Create a Github repo with a detailed README file. Use knowledege in class (of Terminal, Git and Github) tp create a simple 1-page HTML application. A few paragraphs of text and at least one images for each member is required.

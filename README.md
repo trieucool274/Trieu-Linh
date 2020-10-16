@@ -1,6 +1,34 @@
-# Trieu-Linh
+# Git and Github
 
-# MIT Lincense
+Building 1-page app that describes our team. Create a Github repo with a detailed README file. Use knowledege in class (of Terminal, Git and Github) tp create a simple 1-page HTML application. A few paragraphs of text and at least one images for each member is required.
+
+## Team member
+
+1. Nguyen Gia Linh (MMED 1054 Section 1).
+2. Trieu Do hoang (MMED 1054 Section 2).
+
+## Intsallation
+
+Trieu created a repository from his account and invite Linh to collab. They then clone their github repo to their terminal and start coding from seperate branches.
+
+## Contribute
+
+1. Ask for invitation
+2. Create your seperate branch: ` git checkout -b new-branch`
+3. Commit your changes: ` git commit -am 'add something new'`
+4. Push to the branch: ` git push origin new-branche`
+5. Submit a pull request
+
+## History
+
+N/A
+
+## Credits
+
+[Trieu Do Hoang](https://github.com/trieucool274)
+[Nguyen Gia Linh](https://github.com/Ery205275)
+
+## MIT Lincense
 MIT License
 
 Copyright (c) 2020 Nguyen Gia Linh
